@@ -1,0 +1,35 @@
+Travaux pratiques Git&Github  : 
+1.	Donner la commande qui vérifie quelle version de Git  est installée. 
+2.	Validez les modifications dans le référentiel actuel avec le message « Première version ! » 
+3.	Affichez l’historique des commits pour le dépôt : 
+4.	Créez une nouvelle branche appelée hello-world-images 
+5.	Déplacer vers la branch hello-world-images 
+6.	Créer, et déplacer vers une nouvelle branch avec le nom hello-you 
+7.	Supprimez la branche hello-you du référentiel local  
+8.	Fusionnez la branche hello-you avec la branche actuelle  
+ 
+9.	Récupérez toute l’historique des modifications de l’origine de cette branche  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10.	Expliquer le principe de fonctionnement de git selon le schema en donnant une définition précise de chaque composant ? 
+  
+11.	Fusionner la branche courante avec le maître de branche, à l’origine : 
+ 
+12.	Répertoriez toutes les branches locales et distantes du Git actuel. 
+ 
